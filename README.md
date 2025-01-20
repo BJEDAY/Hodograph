@@ -1,3 +1,15 @@
+The program simulates the operation of a flywheel connected to a piston using a stiff arm. The aim of the task is to investigate the effect of small disturbances on the operation of a simple
+dynamic system. All data is displayed in the form of graphs.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa73d416-5567-4344-98c2-1827c6101eca" width =700 height=auto>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30ef78aa-b44f-4561-a5eb-031e2c6255cd" width =700 height=auto>
+</p>
+
+Technology: C# | ImGui | ImPlot | OpenTK
 
 # DearImGui
 
